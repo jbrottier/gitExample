@@ -2,3 +2,4 @@ role,NetID,LastName,FirstName
 boss,jbrottier,Rottier,Jake
 employee,gadiparthi,Gadiparthi,Udaya
 employee,dferstl,Ferstl,Danielle
+employee,xwang2597,Wang,Xuehan
